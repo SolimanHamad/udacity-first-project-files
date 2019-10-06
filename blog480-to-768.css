@@ -1,0 +1,28 @@
+/* Header */
+.header {
+    grid-template-columns: 5.5% 5.5% 48% 11.5%;
+    grid-gap: 40px;
+}
+
+/* Body */
+.content {
+    grid-gap: 15px 48%;
+}
+
+.border-cell {
+    min-width: 1400;
+    min-height: 175px;
+}
+
+.side-content {
+    grid-gap: 10px;
+}
+
+.side-content h2 {
+    font-size: 1.3em;
+}
+
+/* Footer */
+.footer {
+    grid-template-columns: 77% 23%;
+} 
